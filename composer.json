@@ -7,7 +7,6 @@
         "sdk",
         "api"
     ],
-    "version": "1.0.0",
     "homepage": "http://swagger.io",
     "license": "proprietary",
     "authors": [
